@@ -24,7 +24,7 @@ class App
 
     # Here comes a HERE doc. It's just a ruby string.
     response = <<-TXT
-    Hi Ruby 006. It's #{Time.now}. 
+    Hi Ruby 006. It's #{Time.now}.
     Hit refresh and realize you've been learning Ruby
     since #{(Time.now - seconds_in_17_days)}.
     How many days is that? 17? With weekends? And look what you're doing.
